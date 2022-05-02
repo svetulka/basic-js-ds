@@ -32,6 +32,7 @@ class Queue {
     if (!this.list) return null;
 
     return this.list.shift();
+
   }
 }
 
